@@ -1,0 +1,71 @@
+body{
+    margin-left: 50px;
+}
+.logo-perfect img{
+    width: 350px;
+    padding: 30px;
+    height: 100px;
+}
+.nav-size{
+    padding-inline-start: 500px;
+    font-size: 20px;   
+}
+.nav-border{
+    border: 0;
+}
+.color-nike{
+    color: tomato;
+}
+.color-run{
+    color: rgb(34, 2, 34);
+}
+.color-btn{
+   background-color: slateblue;
+}
+.p-size{
+    padding:100px;
+    font-display: bold;
+}
+h1{
+    font-size: 50px;
+}
+.header-color{
+    background-color: rgb(255, 252, 247);
+}
+
+
+h5,h2{
+    font-size: 30px;
+}
+h5,h1,h2{
+    color: rgb(47, 10, 73);
+}
+.nike-card {
+    border: 0;
+    background-color: white;
+    
+  }
+  .causal-section {
+    background-color:white;
+    border-radius: 30px;
+    padding: 50px;
+    width: 95%;
+    
+  }
+  .causal-section img{
+      border:5px solid white;
+      border-radius: 20px;
+      padding: 40px;
+      height: 300px;
+      background-color: #dfdbdb;
+  }
+  .last-border{
+      border: 5px solid white;
+      border-radius: 15px;
+  }
+  .size-content{
+     padding: 50px;
+     height: 80%;
+     width: 100%;
+  }
+  
